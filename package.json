@@ -1,0 +1,24 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend Finder is a web app that allows you to match yourself with another similar person after answering a survey.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelnguyen55/FriendFinder.git"
+  },
+  "author": "Michael Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelnguyen55/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/michaelnguyen55/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
